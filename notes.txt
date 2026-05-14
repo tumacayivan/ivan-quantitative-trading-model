@@ -1,0 +1,11 @@
+[I 2026-05-14 03:36:22,020] Trial 14 finished with value: 0.07159777730703354 and parameters: {'learning_rate': 0.002431920576262525, 'lstm_dropout': 0.2, 'transformer_dropout': 0.15000000000000002, 'l2_reg': 1.0342762885798804e-05, 'lstm_units_scale': 1.0, 'direction_loss_weight': 0.05}. Best is trial 14 with value: 0.07159777730703354.
+
+[I 2026-05-14 05:14:04,496] Trial 33 finished with value: 0.049908217042684555 and parameters: {'learning_rate': 0.0003472334994620239, 'lstm_dropout': 0.15000000000000002, 'transformer_dropout': 0.2, 'l2_reg': 2.6141277840827452e-05, 'lstm_units_scale': 1.0, 'direction_loss_weight': 0.0}. Best is trial 33 with value: 0.049908217042684555.
+
+.
+[I 2026-05-14 06:11:21,353] Trial 42 finished with value: 0.0410892628133297 and parameters: {'learning_rate': 0.00108401642907417, 'lstm_dropout': 0.15000000000000002, 'transformer_dropout': 0.25, 'l2_reg': 2.628393698486126e-05, 'lstm_units_scale': 1.0, 'direction_loss_weight': 0.0}. Best is trial 42 with value: 0.0410892628133297.
+
+
+
+
+[I 2026-05-14 06:32:13,811] Trial 45 finished with value: 0.03994167968630791 and parameters: {'learning_rate': 0.0011387474789311396, 'lstm_dropout': 0.1, 'transformer_dropout': 0.25, 'l2_reg': 2.4369007941930825e-05, 'lstm_units_scale': 1.0, 'direction_loss_weight': 0.0}. Best is trial 45 with value: 0.03994167968630791.
